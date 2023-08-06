@@ -37,8 +37,8 @@ After following the installation steps, the development server should be running
 The server folder contains the Express.js code responsible for serving food data to the frontend. To start the server, follow these steps:
 
 1. Install app dependencies:
-`cd your-repo-name/server
-npm install `
+`cd your-repo-name/server`
+`npm install `
 2. Start the server on port 9000:  `npm run server`
 The server will be running at `http://localhost:9000` and will provide the necessary data for the app.
 
