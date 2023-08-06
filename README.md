@@ -1,6 +1,9 @@
 # GoFood -  A simple Food Search and Filter App
 
-![App Screenshot](screenshot.png)
+![image](https://github.com/yghugardare/GoFood/assets/117991996/95b30772-336d-4f80-bf6a-8e6907115175)
+![image](https://github.com/yghugardare/GoFood/assets/117991996/935aee93-d2fa-4144-8577-6a8f78c85dfc)
+![image](https://github.com/yghugardare/GoFood/assets/117991996/2f2f9ce6-718b-4a8a-bf28-7cd4f4f42263)
+![image](https://github.com/yghugardare/GoFood/assets/117991996/85ac3bb5-98fd-4e51-b670-b0142cefccd8)
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -31,8 +34,14 @@ git clone https://github.com/yghugardare/GoFood.git
 2. Navigate to the app folder and install dependencies:
 
 cd your-repo-name/app
+
+
 npm install styled-components@latest
+
+
+
 3. Start the development server:
+
 npm run dev
 
 ## Usage
