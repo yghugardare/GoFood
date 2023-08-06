@@ -26,24 +26,10 @@ This is a Food Search and Filter web application built with React, Vite, JavaScr
 - Responsive design with media queries for various screen sizes.
 
 ## Installation
-1. Clone the repository: 
-
-git clone https://github.com/yghugardare/GoFood.git
-
-
-2. Navigate to the app folder and install dependencies:
-
-cd your-repo-name/app
-
-
-npm install styled-components@latest
-
-
-
-3. Start the development server:
-
-npm run dev
-
+1. Clone the repository: `git clone https://github.com/yghugardare/GoFood.git`
+2. Navigate to the app folder and install dependencies:  `cd your-repo-name/app`
+`npm install styled-components@latest`
+3. Start the development server:  `npm run dev`
 ## Usage
 After following the installation steps, the development server should be running at `http://localhost:3000`. Open your web browser and visit this address to access the Food Search and Filter App.
 
@@ -51,14 +37,9 @@ After following the installation steps, the development server should be running
 The server folder contains the Express.js code responsible for serving food data to the frontend. To start the server, follow these steps:
 
 1. Install app dependencies:
-
-cd your-repo-name/server
-npm install 
-2. Start the server on port 9000:
-
-npm run server
-
-
+`cd your-repo-name/server
+npm install `
+2. Start the server on port 9000:  `npm run server`
 The server will be running at `http://localhost:9000` and will provide the necessary data for the app.
 
 ## Technologies Used
