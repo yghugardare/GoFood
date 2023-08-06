@@ -1,8 +1,8 @@
 # GoFood -  A simple Food Search and Filter App
 
-![image](https://github.com/yghugardare/GoFood/assets/117991996/95b30772-336d-4f80-bf6a-8e6907115175)
-![image](https://github.com/yghugardare/GoFood/assets/117991996/935aee93-d2fa-4144-8577-6a8f78c85dfc)
-![image](https://github.com/yghugardare/GoFood/assets/117991996/2f2f9ce6-718b-4a8a-bf28-7cd4f4f42263)
+![image](https://github.com/yghugardare/GoFood/assets/117991996/0551c9a5-4a03-4994-a729-14386ea4446a)
+![image](https://github.com/yghugardare/GoFood/assets/117991996/dfdf2710-c087-4395-a6c4-e536e9238cbd)
+![image](https://github.com/yghugardare/GoFood/assets/117991996/c33dcfac-1709-4e86-b55e-70c665b2f253)
 ![image](https://github.com/yghugardare/GoFood/assets/117991996/85ac3bb5-98fd-4e51-b670-b0142cefccd8)
 
 ## Table of Contents
